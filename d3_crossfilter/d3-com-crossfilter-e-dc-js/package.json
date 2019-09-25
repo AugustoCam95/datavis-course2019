@@ -1,0 +1,14 @@
+{
+  "name": "@augustocam95/d3-com-crossfilter-e-dc-js",
+  "main": "d/0dc35de8db64d380.js",
+  "version": "264.0.0",
+  "homepage": "https://observablehq.com/@augustocam95/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "José Augusto",
+    "url": "https://observablehq.com/@augustocam95"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
