@@ -1,3 +1,8 @@
+## Aula do dia 29/09/2019
+
+[index.html](d3_leaflet/d3-com-leaflet/index.html)<br>
+[index.html](d3_leaflet/crimes-in-chicago-in-september-of-2019/index.html)<br>
+
 ## Aula do dia 25/09/2019
 
 [index.html](d3_crossfilter_2/index.html)<br>

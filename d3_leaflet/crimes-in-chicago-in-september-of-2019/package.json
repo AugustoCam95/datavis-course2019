@@ -1,0 +1,14 @@
+{
+  "name": "@augustocam95/crimes-in-chicago-in-september-of-2019",
+  "main": "d/5d7673aeaed8efa7.js",
+  "version": "300.0.0",
+  "homepage": "https://observablehq.com/@augustocam95/crimes-in-chicago-in-september-of-2019",
+  "author": {
+    "name": "José Augusto",
+    "url": "https://observablehq.com/@augustocam95"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
