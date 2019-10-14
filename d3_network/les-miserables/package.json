@@ -1,0 +1,14 @@
+{
+  "name": "@augustocam95/les-miserables",
+  "main": "d/df502f0044471fb2.js",
+  "version": "78.0.0",
+  "homepage": "https://observablehq.com/@augustocam95/les-miserables",
+  "author": {
+    "name": "José Augusto",
+    "url": "https://observablehq.com/@augustocam95"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

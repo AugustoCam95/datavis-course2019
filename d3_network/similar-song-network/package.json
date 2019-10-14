@@ -1,0 +1,14 @@
+{
+  "name": "@augustocam95/similar-song-network",
+  "main": "d/00bcea58a8e272ff.js",
+  "version": "70.0.0",
+  "homepage": "https://observablehq.com/@augustocam95/similar-song-network",
+  "author": {
+    "name": "José Augusto",
+    "url": "https://observablehq.com/@augustocam95"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
