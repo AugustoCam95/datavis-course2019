@@ -1,3 +1,8 @@
+## Aula do dia 23/10/2019
+
+[index.html](d3_interactive/d3-com-crossfilter/index.html)<br>
+[index.html](d3_interactive/taxa-de-desemprego/index.html)<br>
+
 ## Aula do dia 16/10/2019
 
 [index.html](d3_color/taxa-de-desemprego-nos-eua-em-agosto-de-2016/index.html)<br>

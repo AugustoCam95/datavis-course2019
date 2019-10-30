@@ -1,0 +1,14 @@
+{
+  "name": "@augustocam95/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "5f71d128d65377f0@92.js",
+  "version": "92.0.0",
+  "homepage": "https://observablehq.com/@augustocam95/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "José Augusto",
+    "url": "https://observablehq.com/@augustocam95"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
